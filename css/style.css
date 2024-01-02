@@ -80,6 +80,7 @@ body {width: 100%;
 #popup {
     display: none;
     position: absolute;
+    z-index: 999999999;
     right: 42px;
     bottom: 40px;
     width: 400px;
